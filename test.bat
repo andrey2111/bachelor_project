@@ -1,0 +1,11 @@
+python run_car.py -s 1000 --seed 2 -f network_config_agent_0_layers_9_18_9_1.txt -e True
+python run_car.py -s 1000 --seed 2 -f network_config_agent_0_layers_9_18_9_1.txt -e True
+python run_car.py -s 1000 --seed 4 -f network_config_agent_0_layers_9_18_9_1.txt -e True
+python run_car.py -s 1000 --seed 5 -f network_config_agent_0_layers_9_18_9_1.txt -e True
+python run_car.py -s 1000 --seed 6 -f network_config_agent_0_layers_9_18_9_1.txt -e True
+python run_car.py -s 1000 --seed 7 -f network_config_agent_0_layers_9_18_9_1.txt -e True
+python run_car.py -s 1000 --seed 8 -f network_config_agent_0_layers_9_18_9_1.txt -e True
+python run_car.py -s 1000 --seed 9 -f network_config_agent_0_layers_9_18_9_1.txt -e True
+python run_car.py -s 1000 --seed 10 -f network_config_agent_0_layers_9_18_9_1.txt -e True
+python run_car.py -s 1000 --seed 13 -f network_config_agent_0_layers_9_18_9_1.txt -e True
+python run_car.py -s 1000 --seed 15 -f network_config_agent_0_layers_9_18_9_1.txt -e True

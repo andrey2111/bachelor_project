@@ -1,0 +1,15 @@
+seed: 1 circles: 2.9722493069047915 collisions: 35
+seed: 2 circles: 1.229306327045473 collisions: 152
+seed: 3 circles: 1.0957870535576655 collisions: 71
+seed: 4 circles: 1.2568285006676227 collisions: 79
+seed: 7 circles: 3.097101434662201 collisions: 62
+seed: 8 circles: 2.50521221153119 collisions: 73
+seed: 9 circles: 3.703404668443366 collisions: 53
+seed: 10 circles: 1.754846953210515 collisions: 49
+seed: 13 circles: 3.186991330163544 collisions: 18
+seed: 14 circles: 1.5567949799435665 collisions: 94
+seed: 15 circles: 1.4876219753192506 collisions: 46
+seed: 16 circles: -2.281624148509698 collisions: 67
+seed: 17 circles: 2.118395182114061 collisions: 92
+seed: 18 circles: 1.31846489569162 collisions: 103
+
